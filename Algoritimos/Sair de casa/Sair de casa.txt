@@ -1,0 +1,10 @@
+Sair de casa
+
+- Se for menor de idade peça autorização para um adulto
+- Confirme data, horário e local
+- Se tudo esta confirmado tome banho
+- Se arrume
+- Arrume suas vestes
+- Confirme se na sua bolsa estão chave, carteira e celular para ficar atento (Além de dinheiro para gastar em alimento ou taxi se necessário)
+- Se despeça educadamente e saia de casa para se encontrar com seus amigos ou qualquer um que seja
+(Alerta: Deixe alguém ter acesso a sua localização para sua segurança)  
